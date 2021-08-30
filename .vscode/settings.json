@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.rb.y": "ruby",
+    "internal_bit": "cpp"
+  }
+}
